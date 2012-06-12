@@ -1,0 +1,2 @@
+class AlarmViewController < UIViewController
+end
