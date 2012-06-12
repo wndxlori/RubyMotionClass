@@ -1,3 +1,9 @@
+# Filter RubyMine artifacts
+.idea
+# Filter compiled version of storyboard file
+*.storyboardc
+
+# GitHub generated Ruby stuff
 *.gem
 *.rbc
 .bundle
